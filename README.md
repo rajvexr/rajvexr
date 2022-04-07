@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rajvexr
+- 👀 I’m interested in software developing 
+- 🌱 I’m currently learning Java, Python, Dart, Flutters, React and etc.....
+- 📫 How to reach me through my email address 'thers3001@gmail.com'
